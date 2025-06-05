@@ -1,6 +1,6 @@
 - Hi, I’m @DamianPlis
 - I’m just a young developer that uses github to save code and deploy websites for personal use 
-- 🌱 I’m currently learning web development mainlz JavaScript
+- I’m currently learning web development mainly JavaScript
 
 <!---
 DamianPlis/DamianPlis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
